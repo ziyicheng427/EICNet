@@ -30,3 +30,5 @@ Our research indicates that, on average, at a BPP (Bits Per Pixel) of 0.15:
 Additionally, the introduction of the *Chessboard Context Model* significantly reduces decoding time, making the image compression process more efficient.
 
 This project collectively addresses these challenges and aims to enhance deep learning-based image compression techniques for a more effective and high-quality image processing experience.
+
+This project requires the Compressai framework.
