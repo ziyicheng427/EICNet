@@ -1,5 +1,5 @@
 # EICNet: An efficient learning-based image compression network
-
+![avatar](3.1.png)
 ## Introduction
 
 In the age of big data, images have become indispensable. They play a pivotal role, and as data volumes surge, the significance of image compression technology becomes increasingly clear. Image compression significantly boosts the efficiency of image processing, transmission, and storage, leading to a more efficient and high-quality user experience.
