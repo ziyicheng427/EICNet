@@ -1,4 +1,4 @@
-# Deep Learning-Based Image Compression
+# EICNet: An efficient learning-based image compression network
 
 ## Introduction
 
