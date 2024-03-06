@@ -27,7 +27,7 @@ Our research indicates that, on average, at a BPP (Bits Per Pixel) of 0.15:
 - The *Post-Processing Module* enhances image quality by approximately 0.13 dB.
 - The combined effects of these innovations lead to an overall improvement of around 0.37 dB.
 
-Additionally, the introduction of the *Chessboard Context Model* significantly reduces decoding time, making the image compression process more efficient.
+Additionally, the introduction of the *Checkerboard Context Model* significantly reduces decoding time, making the image compression process more efficient.
 
 This project collectively addresses these challenges and aims to enhance deep learning-based image compression techniques for a more effective and high-quality image processing experience.
 
