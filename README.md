@@ -15,14 +15,14 @@ However, deep learning-based image compression approaches still grapple with cer
 
 In summary, this project introduces several key innovations to address the challenges in deep learning-based end-to-end image compression:
 
-- The *Fast Deep Residual Attention Module*.
+- The *Quick Deep Residual Attention Module*.
 - The *Mixture of Gaussian Models*.
 - The *Post-Processing Module*.
 - The *Chessboard Context Model*.
 
 Our research indicates that, on average, at a BPP (Bits Per Pixel) of 0.15:
 
-- The *Fast Deep Residual Attention Module* improves PSNR by approximately 0.23 dB.
+- The *Quick Deep Residual Attention Module* improves PSNR by approximately 0.23 dB.
 - The *Mixture of Gaussian Models* contributes an improvement of 0.25 dB.
 - The *Post-Processing Module* enhances image quality by approximately 0.13 dB.
 - The combined effects of these innovations lead to an overall improvement of around 0.37 dB.
